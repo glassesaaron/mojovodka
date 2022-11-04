@@ -14,3 +14,18 @@
         - not dark enough
         - too thick, syrup like consistency
         - taste is overwhelming
+## Revision C
+    Ingredients: 
+        - 8 apple Jolly Rancher
+        - 1 drop black food coloring
+        - ~50ml water
+    Result: Failure
+        - Way too dark
+## Revision D
+    Ingredients:
+        - 8 apple Jolly Rancher
+        - ~50ml of mixture
+            - 350ml water
+            - 1 drop black food coloring
+    Result:
+        - ???
