@@ -24,7 +24,7 @@
 ## Revision D
     Ingredients:
         - 8 apple Jolly Rancher
-        - 1 drop forset green food coloring
+        - 1 drop forest green food coloring
 	- ~50ml of mixture
             - 350ml water
             - 1 drop black food coloring
