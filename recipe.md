@@ -25,8 +25,12 @@
     Ingredients:
         - 8 apple Jolly Rancher
         - 1 drop forest green food coloring
-	- ~50ml of mixture
+        - ~50ml of mixture
             - 350ml water
             - 1 drop black food coloring
-    Result:
-        - ???
+    Result: Acceptable
+        - Color was a bit too dark
+        - Taste was acceptable
+            - relatively smooth
+            - tasted like a jolly rancher
+
