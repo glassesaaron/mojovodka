@@ -33,4 +33,14 @@
         - Taste was acceptable
             - relatively smooth
             - tasted like a jolly rancher
-
+## Revision E
+    Ingredients:
+        - 16 Hong Yuan Green Apple Candy
+        - 35ml of mixture
+            - 350ml water
+            - 1 drop Forest Green food coloring
+        - 20ml of mixture
+            - 350ml water
+            - 1 drop Neon Brite Green food coloring
+    Result: ???
+        - Color is close, a bit too light
