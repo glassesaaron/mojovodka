@@ -42,5 +42,11 @@
         - 20ml of mixture
             - 350ml water
             - 1 drop Neon Brite Green food coloring
-    Result: ???
+    Result: Acceptable
         - Color is close, a bit too light
+        - Taste is a little overwhelming
+            - Subject A described the taste as "loud"
+            - Too syrup-y
+            - Lingers on the tongue
+            - Subject K states that if  this is intended as a base for a cocktail, it would be good as-is
+
