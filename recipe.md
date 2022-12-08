@@ -49,4 +49,13 @@
             - Too syrup-y
             - Lingers on the tongue
             - Subject K states that if  this is intended as a base for a cocktail, it would be good as-is
-
+## Revision F
+    Ingredients:
+        - 10 Hong Yuan Green Apple Candy
+        - 35ml of mixture
+            - 350ml water
+            - 1 drop Forest Green food coloring
+        - 20ml of mixture
+            - 350ml water
+            - 1 drop Neon Brite Green food coloring
+    Result: ???
