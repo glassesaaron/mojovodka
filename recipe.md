@@ -52,10 +52,13 @@
 ## Revision F
     Ingredients:
         - 10 Hong Yuan Green Apple Candy
-        - 35ml of mixture
+        - 55ml of mixture
             - 350ml water
             - 1 drop Forest Green food coloring
-        - 20ml of mixture
+        - 40ml of mixture
             - 350ml water
             - 1 drop Neon Brite Green food coloring
-    Result: ???
+    Result: Acceptable
+        - Color is too light, a bit too blue/green
+        - Taste is as good as it will get with the current ingredient set
+            - Subject C states "if cough syrup tasted like that, I'd drink it"
