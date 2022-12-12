@@ -65,3 +65,13 @@
         - Taste may be as good as it will get with the current ingredient set
             - Subject C states "if cough syrup tasted like that, I'd drink it"
             - Subject A states that it no longer tastes sweet enough, and is too close to regular vodka
+## Revision G
+    Ingredients:
+        - 12 Hong Yuan Green Apple Candy
+        - ??? of mixture
+            - 200ml water
+            - 1 drop Forest Green food coloring
+        - ??? of mixture
+            - 200ml water
+            - 1 drop Neon Brite Green food coloring
+    Result: ???
