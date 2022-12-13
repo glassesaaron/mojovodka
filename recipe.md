@@ -86,4 +86,14 @@
             - A little too transparent
             - A little too blue-green
 
+## Revision H
+    Ingredients:
+        - 200 ml vodka
+        - 12 Hong Yuan Green Apple Candy
+        - 20ml of mixture
+            - 100ml water
+            - 1 drop Forest Green food coloring
+        - 30ml of mixture
+            - 100ml water
+            - 1 drop Neon Brite Green food coloring
     Result: ???
