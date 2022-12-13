@@ -75,10 +75,15 @@
     Ingredients:
         - 200 ml vodka
         - 12 Hong Yuan Green Apple Candy
-        - ??? of mixture
+        - 20 ml of mixture
             - 200ml water
             - 1 drop Forest Green food coloring
-        - ??? of mixture
+        - 30ml of mixture
             - 200ml water
             - 1 drop Neon Brite Green food coloring
+    Result: Acceptable
+        - Color is close
+            - A little too transparent
+            - A little too blue-green
+
     Result: ???
