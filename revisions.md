@@ -21,7 +21,7 @@
         - 200 ml vodka
         - 8 apple Jolly Rancher
         - 1 drop black food coloring
-        - ~50ml water
+        - ~50 ml water
     Result: Failure
         - Way too dark
 ## Revision D
@@ -29,8 +29,8 @@
         - 200 ml vodka
         - 8 apple Jolly Rancher
         - 1 drop forest green food coloring
-        - ~50ml of mixture
-            - 350ml water
+        - ~50 ml of mixture
+            - 350 ml water
             - 1 drop black food coloring
     Result: Acceptable
         - Color was a bit too dark
@@ -41,11 +41,11 @@
     Ingredients:
         - 200 ml vodka
         - 16 Hong Yuan Green Apple Candy
-        - 35ml of mixture
-            - 350ml water
+        - 35 ml of mixture
+            - 350 ml water
             - 1 drop Forest Green food coloring
-        - 20ml of mixture
-            - 350ml water
+        - 20 ml of mixture
+            - 350 ml water
             - 1 drop Neon Brite Green food coloring
     Result: Acceptable
         - Color is close, a bit too light
@@ -58,11 +58,11 @@
     Ingredients:
         - 200 ml vodka
         - 10 Hong Yuan Green Apple Candy
-        - 55ml of mixture
-            - 350ml water
+        - 55 ml of mixture
+            - 350 ml water
             - 1 drop Forest Green food coloring
-        - 40ml of mixture
-            - 350ml water
+        - 40 ml of mixture
+            - 350 ml water
             - 1 drop Neon Brite Green food coloring
     Result: Acceptable
         - Color is not a good match
@@ -76,10 +76,10 @@
         - 200 ml vodka
         - 12 Hong Yuan Green Apple Candy
         - 20 ml of mixture
-            - 200ml water
+            - 200 ml water
             - 1 drop Forest Green food coloring
-        - 30ml of mixture
-            - 200ml water
+        - 30 ml of mixture
+            - 200 ml water
             - 1 drop Neon Brite Green food coloring
     Result: Acceptable
         - Color is close
@@ -90,10 +90,10 @@
     Ingredients:
         - 200 ml vodka
         - 12 Hong Yuan Green Apple Candy
-        - 20ml of mixture
-            - 100ml water
+        - 20 ml of mixture
+            - 100 ml water
             - 1 drop Forest Green food coloring
-        - 30ml of mixture
-            - 100ml water
+        - 30 ml of mixture
+            - 100 ml water
             - 1 drop Neon Brite Green food coloring
-    Result: ???
+    Result: Success
