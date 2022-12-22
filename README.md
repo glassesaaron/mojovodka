@@ -22,6 +22,10 @@ the (un)official recipe for flavored vodka that (somewhat) perfectly matches the
 1. remove all fear from your heart
 1. consume
 
+## result
+
+![mojovodka](mojovodka.jpg)
+
 ## history
 
 [past revisions](revisions.md)
